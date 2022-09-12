@@ -52,8 +52,8 @@
 
 // --------------------5) What will this log?
 
-const dataTypes = ["number", "string", "Boolean"]
- console.log(typeof dataTypes.length)
+//const dataTypes = ["number", "string", "Boolean"]
+// console.log(typeof dataTypes.length)
 
-// a) Your answer: 
-// b) Verify and explain:
+// a) Your answer: 3
+// b) Verify and explain: number, the operator typeof was forgien to me, after looking on w3schools I found the operator described the answer or only listed one portion of the string. I plan to look into this alot more.
